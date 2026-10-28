@@ -1,8 +1,8 @@
 # DxrK-Cap-Stories
 
-**Versión actual: v0.0**
-**Fecha de version: 28/oct/2026**
-**Desarrollado por:**
+- **Versión actual: v0.0**
+- **Fecha de version: 28/oct/2026**
+- **Desarrollado por:**
 
 
 
