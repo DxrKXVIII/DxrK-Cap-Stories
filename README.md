@@ -7,7 +7,7 @@
 
 
 **¿Qué es DxrK Cap Stories?**
-Es un **motor gráfico** simple para crear y contar novelas gráficas 
+Es un **motor gráfico** desarrollado en C++ para crear y contar novelas gráficas 
 inspirado en interfaces de videojuegos clásicos y un toque técnico.
 
 **Funciones disponibles:**
