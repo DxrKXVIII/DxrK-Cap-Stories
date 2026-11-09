@@ -1,0 +1,17 @@
+...
+[FONDO:assets/textures/fondo1.png]
+[PERSONAJE:assets/textures/personaje1.png]
+Bonsoir
+Test test test
+Quiero una monster grrr
+Tamal
+[FONDO:assets/textures/fondoLuna.png]
+PUM CAMBIO DE FONDO
+apoco
+[PERSONAJE:assets/textures/bocchi1.png]
+¿Q-qué..?
+¿Qué hago aquí...?
+[PERSONAJE:]
+[FONDO:assets/textures/kaboom.png]
+KABOOOOOOOOOOOOOOOOOM
+[FINHISTORIA:FINHISTORIA]
