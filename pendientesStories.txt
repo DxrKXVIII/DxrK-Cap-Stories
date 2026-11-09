@@ -1,0 +1,28 @@
+Tareas próximas en orden:
+- Comprobacion inicial de assets para menus (fuente, ascii animado)
+- Animacion inicial y marca
+- Menus creados, mejorados y decorados
+- Transiciones entre menus y animaciones
+- Respuesta a errores comunes e informacion legal
+- Posiciones y tamaños adaptables de texturas
+- Animaciones simples y efectos editables
+- Editor de historias basico y toma de decisiones
+- Agregado de historias
+- Integración de mp4 (cinematicas externas) y gif
+- Integración de mp3 y regularizacion de volumen
+- Configuración de usuario
+- Botones de historia, guardado y decoración
+- Tutorial integrado de editor de historias y documentación simple
+- Integracion a windows (android posiblemente)
+- Publicación alpha/beta v0.1, búsqueda de usuarios, bugs, sugerencias y demás en Discord
+- Tomar una monster de celebración
+- Comenzar mi videojuego
+- Actualizaciones constantes
+
+Tareas graduales / con el tiempo:
+- Integración de nueva OC de marca (la guía / mascota (odio decirle mascota-) del programa)
+- Música 
+- Historias mías
+- Repositorio de Github y documentación constante
+- Decoración pesada
+- Pruebas constantes

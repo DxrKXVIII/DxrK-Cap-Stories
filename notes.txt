@@ -1,0 +1,4 @@
+Cosas a considerar:
+
+- ¿Al hacer fprintf se 
+guarda con salto de linea?

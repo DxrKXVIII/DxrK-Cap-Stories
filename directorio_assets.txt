@@ -1,0 +1,6 @@
+assets/textures/fondo1.png
+assets/textures/personaje1.png
+assets/textures/fondoLuna.png
+assets/textures/bocchi1.png
+
+assets/textures/kaboom.png
